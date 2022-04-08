@@ -6,7 +6,7 @@ The Handmade Shopper Bag site intends to provide instructions to crafters on how
 
 ## UX Design
 
-Two user personas were identified during project planning.  The beginner crafter and a more experienced crafter visiting to find information about specific techniques.  These personas were used to develop the user stories shown below.
+Two user personas were identified while researching this project.  The beginner crafter and a more experienced crafter visiting to find information about specific techniques.  These personas were used to develop the user stories shown below.
 
 ### User Stories
 
@@ -26,14 +26,28 @@ As an experienced crafter:
 
 - I want the description and the visuals to explain fully how each technique is completed.
 
-The user stories helped to define the strategy around the user experience.
+As the site owner:
 
+- I want to develop and share bag making instructions online.
 
+- I would like to create instructional bag making videos for sharing with the crafting community.
 
-| Opportunity / Problem     |  Importance     |    Viability/Feasibility    |
-| :------------             |   :---:         |   :---:                     |
-| `John`                    |     5           |     5                       |
-| `Bob`                     |     5           |     5                       |
+The user stories helped to define the opportunities for the site.  An assessment of the opportunities helped finalise the strategic objectives around the user experience. Opportunities for both the users and the site owner were rated in terms of importance and viability or feasibility.
+
+| Opportunity                                                       |  Importance     |    Viability/Feasibility    |
+| :------------                                                     |   :---:         |   :---:                     |
+| Provide instructions to create a simple shopper bag.              |     5           |     5                       |
+| Create a website that will be accessible on multiple devices.     |     5           |     5                       |
+| Provide a facility for the user to contact the site owner.        |     5           |     5                       |
+| Create a site that is intuitive and easy to navigate.             |     5           |     5                       |
+| Add clear images to the instructions for bag making.              |     5           |     5                       |
+| Provide access to a glossary with detail on sewing terminology.   |     4           |     5                       |
+| Create a site structure and content that can be reused.           |     4           |     5                       |
+| ~~Create and host instructional video(s) for making this bag.~~   |     ~~3~~       |     ~~2~~                   |
+
+Final paragraph on strategy.
+
+Comment on scope and features.
 
 ## Features 
 
