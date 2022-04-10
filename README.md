@@ -32,6 +32,8 @@ As the site owner:
 
 - I would like to create instructional bag making videos for sharing with the crafting community.
 
+### UX Strategy
+
 The user stories helped to define the opportunities for the site.  An assessment of the opportunities helped finalise the strategic objectives around the user experience. Opportunities for both the users and the site owner were rated in terms of importance and viability or feasibility.
 
 | Opportunity                                                       |  Importance     |    Viability/Feasibility    |
@@ -47,11 +49,9 @@ The user stories helped to define the opportunities for the site.  An assessment
 
 The opportunities were mapped so it could be decided which opportunities were going to be considered for this release.
 
- ![Responsive Mockup](/media/strategy8.jpg)
+ ![Responsive Mockup](/media/strategy12.jpg)
 
 Once these were mapped it was decided that the opportunity to create and host instructional video(s) would be excluded for the initial release. 
-
-Comment on Scope here.
 
 ## Features 
 
