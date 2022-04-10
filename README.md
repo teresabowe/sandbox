@@ -49,7 +49,7 @@ The user stories helped to define the opportunities for the site.  An assessment
 
 The opportunities were mapped so it could be decided which opportunities were going to be considered for this release.
 
- ![Responsive Mockup](/media/strategy17.png)
+ ![Responsive Mockup](/media/strategy14.png)
 
 Once these were mapped it was decided that the opportunity to create and host instructional video(s) would be excluded for the initial release. 
 
