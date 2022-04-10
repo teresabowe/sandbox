@@ -49,10 +49,9 @@ The opportunities were mapped so it could be decided which opportunities were go
 
  ![Responsive Mockup](/media/strategy_opportunities.png)
 
-We need to decide which of the opportunities are going to be implemented for this release.
-So by mapping them, it gives us a clear idea of what's important.
+Once these were mapped it was decided that the opportunity to create and host instructional video(s) would be excluded for the initial release. 
 
-Comment on scope and features.
+Comment on Scope here.
 
 ## Features 
 
