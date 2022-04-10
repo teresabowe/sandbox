@@ -45,7 +45,12 @@ The user stories helped to define the opportunities for the site.  An assessment
 | Create a site structure and content that can be reused.           |     4           |     5                       |
 | ~~Create and host instructional video(s) for making this bag.~~   |     ~~3~~       |     ~~2~~                   |
 
-Final paragraph on strategy.
+The opportunities were mapped so it could be decided which opportunities were going to be considered for this release.
+
+ ![Responsive Mockup](/media/strategy_opportunities.png)
+
+We need to decide which of the opportunities are going to be implemented for this release.
+So by mapping them, it gives us a clear idea of what's important.
 
 Comment on scope and features.
 
