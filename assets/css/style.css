@@ -1,32 +1,71 @@
-.item-a {
-    grid-area: nav;
-}
-  .item-b {
-    grid-area: header;
-}
-  .item-c {
-    grid-area: main; 
-}
-  .item-d {
-    grid-area: sidebar;
-}
-  .item-e {
-    grid-area: footer;
-}
-  
-.container {
-    display: grid;
-    grid-template-columns: 400px 400px 400px 400px;
-    grid-template-rows: auto;
-    grid-template-areas: 
-      "nav nav nav nav"
-      "header header header header"
-      "main main . sidebar"
-      "footer footer footer footer";
-}
-#hero-image {
-    height: 800px;
-    width: 100%;
-    background: url('../images/pexels-pixabay-262713.jpg') no-repeat center center;
-  }
+/* Typography imported from Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Source+Sans+Pro:200,400');
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', serif;
+}
+
+p, a {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* Generic styles */
+html {
+  scroll-behavior: smooth;
+}
+
+a {
+  background-color: goldenrod;
+  text-decoration: none;
+  color: white;
+  border-radius: .25rem;
+  text-align: center;
+  display: inline-block;
+  transition: all .3s;
+}
+
+a:hover {
+  opacity: .6;
+}
+
+/* Styles for the hero image */
+.hero {
+  /* Photo by mnm.all on Unsplash */
+  background: url('../images/pexels-pixabay-262713.jpg') center;
+  background-size: cover;
+  padding: 4rem 2rem;
+  /* grid styles */
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  align-items: center;
+}
+
+.hero > * {
+  color: white;
+}
+
+.hero > h1 {
+  font-size: 4rem;
+  padding-bottom: 1rem;
+}
+
+.hero > article > p {
+  font-size: 1.5rem;
+  font-weight: 200;
+}
+
+.hero > article > a {
+  padding: 1rem;
+  margin-top: .75rem;
+}
+
+
+
+/* footer */
+footer {
+  background-color: #333;
+  padding: .75rem;
+  color: white;
+  text-align: center;
+  font-size: .75rem;
+}
