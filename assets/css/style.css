@@ -2,11 +2,16 @@ body {
   font-family: sans-serif;
   margin: 0;
   display: grid;
-  grid-template-columns: 30% auto;
-  grid-template-rows: 200px auto 200px;
-  grid-template-areas: "hd hd"
-                       "sidebar main"
-                       "footer footer";
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 100px 15fr 1fr 150px;
+  height: 100vh;
+  grid-gap: 1rem; 
+  grid-template-areas: "hd hd hd"
+                       "main main main"
+                       "intro intro intro"
+                       "img1 img2 img3"
+                       "footer footer footer";
+
 }
 
 header {
@@ -22,9 +27,9 @@ li {
   grid-area: hd;
 }
 
-aside {
-  background: #fa923f;
-  grid-area: sidebar;
+#intro {
+  /* background: #fa923f; */
+  grid-area: intro;
 }
 
 main {
@@ -35,6 +40,18 @@ main {
 .hero {
   background: url('../images/pexels-pixabay-262713.jpg') center;
   background-size: cover;
+}
+
+#img1 {
+  grid-area: img1;
+}
+
+#img2 {
+  grid-area: img2;
+}
+
+#img3 {
+  grid-area: img3;
 }
 
 footer {
