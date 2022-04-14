@@ -39,7 +39,7 @@ a:hover {
   padding: 4rem 2rem;
   /* grid styles */
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(350px, .5fr));
   grid-template-rows: 400px;
   align-items: center;
 }
