@@ -13,6 +13,7 @@
 .menu-item {
   margin: 0 10px;
 }
+
 /* Generic styles */
 html {
   scroll-behavior: smooth;
@@ -33,6 +34,8 @@ a:hover {
   opacity: .6;
 }
 
+/* hero styles */
+
 .hero {
   background: url('../images/pexels-pixabay-262713.jpg') center;
   background-size: cover;
@@ -40,7 +43,7 @@ a:hover {
   /* grid styles */
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(350px, .5fr));
-  grid-template-rows: 400px;
+  grid-template-rows: 450px;
   align-items: center;
 }
 
@@ -81,7 +84,7 @@ a:hover {
   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
   grid-gap: 1rem;
 }
-
+/*
 .breweries > ul > li {
   border: 1px solid #E2E2E2;
   border-radius: .5rem;
@@ -94,17 +97,19 @@ a:hover {
   border-top-right-radius: .5rem;
   position: relative;
 }
-
+*/
 .breweries > ul > li > figure > img {
   width: 100%;
 }
 
+/*
 .breweries > ul > li > figure > figcaption {
   position: absolute;
   bottom: 0;
   background-color: rgba(0,0,0,.7);
   width: 100%;
 }
+
 
 .breweries > ul > li > figure > figcaption > h3 {
   color: white;
@@ -123,6 +128,7 @@ a:hover {
   padding: .5rem 1rem;
   margin: .5rem;
 }
+*/
 /*
 footer {
   grid-area: footer;
