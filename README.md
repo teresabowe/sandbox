@@ -2,7 +2,7 @@
 
 The Handmade Shopper Bag site intends to provide instructions to crafters on how to make a simple shopper bag.  The site will be targeted towards beginner crafters and those who want specific information on how some techniques are applied.  Detailed instructions will be provided along with a number of images showing the techniques involved.  
 
-![Responsive Mockup](/media/am-i-responsive-rwd.is_.png)
+![Responsive Mockup](/media/am-i-responsive-rwd.png)
 
 ## UX Design
 
